@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt="chill_girl-gif" width="150" align="right"/>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Hello%2C+there;I'm+Abdul+Azis%2C+a+student;Glad+to+see+you+all!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Hello%2C+there+👋;I'm+Abdul+Azis%2C+a+student)](https://git.io/typing-svg)
 
 <pre>
 👨‍🎓 Student | Software Engineering
@@ -29,4 +29,4 @@
 
 <img src="https://media.tenor.com/Feye0Mgk5WgAAAAi/minumi-minumiglaucus.gif" alt="goodbye_wave-gif" width="150" align="left" />  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Glad+to+see+you+all;Thanks+for+coming+and+reading+this!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Glad+to+see+you+all;Thanks+for+coming+and+reading+this+🙌)](https://git.io/typing-svg)
