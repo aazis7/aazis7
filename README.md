@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Hello%2C+there+👋;I'm+Abdul+Azis%2C+a+student)](https://git.io/typing-svg)
 
 <pre>
-    👨‍🎓 Student       | Majoring in Software Engineering
-    💻 Coder         | Web Development, currently focusing on Backend
-    👨‍💻 IT Enthusiast | Latest technology, tools, frameworks, etc.
+👨‍🎓 Student       | Majoring in Software Engineering
+💻 Coder         | Web Development, currently focusing on Backend
+👨‍💻 IT Enthusiast | Latest technology, tools, frameworks, etc.
 </pre>
 </br>
 
