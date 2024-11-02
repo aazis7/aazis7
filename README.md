@@ -22,9 +22,7 @@
 ``` Connect ```
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/isntazis)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/isntazis)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isntazis)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/isntazis)
 </br>
 
 <img src="https://media.tenor.com/Feye0Mgk5WgAAAAi/minumi-minumiglaucus.gif" alt="minumiglaucus-gif" width="150" align="left" />  
