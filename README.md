@@ -1,11 +1,11 @@
-<img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt="chill_girl-gif" width="150" align="right"/>  
+<img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt="anime-girl-gif" width="150" align="right"/>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Hello%2C+there+👋;I'm+Abdul+Azis%2C+a+student)](https://git.io/typing-svg)
 
 <pre>
-👨‍🎓 Student | Software Engineering
-💻 Coder   | Web Development
-🎨 Music   | Anime | Code | Art
+    👨‍🎓 Student       | Majoring in Software Engineering
+    💻 Coder         | Web Development, currently focusing on Backend
+    👨‍💻 IT Enthusiast | Latest technology, tools, frameworks, etc.
 </pre>
 </br>
 
@@ -19,7 +19,7 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)   
 </br>
 
-``` Socials ```
+``` Connect ```
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/isntazis)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/isntazis)
@@ -27,6 +27,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/isntazis)
 </br>
 
-<img src="https://media.tenor.com/Feye0Mgk5WgAAAAi/minumi-minumiglaucus.gif" alt="goodbye_wave-gif" width="150" align="left" />  
+<img src="https://media.tenor.com/Feye0Mgk5WgAAAAi/minumi-minumiglaucus.gif" alt="minumiglaucus-gif" width="150" align="left" />  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=FF8C07&background=FFFFFF00&width=435&lines=Glad+to+see+you+all;Thanks+for+coming+and+reading+this+🙌)](https://git.io/typing-svg)
