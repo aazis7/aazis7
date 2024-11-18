@@ -1,18 +1,37 @@
-🐈‍⬛
+🐈‍⬛  
 
 Hi there 👋  
 
 As a student who majoring in software engineering, i have experience such as theory and practice about software development especially in the web development. I hope we can open discussion and contribute to a community or project.  
 
-___
+Here's a list of tech stack that i used:
 
-Here's a list of tech stack i use:
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express&color=353535) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=353535) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535)  
 
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express&color=353535) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=353535) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535)
+Check out my recent project:  
 
-___
+- [askgg](https://github.com/isntaz1s/askgg)
+Sebuah platform buat lo yang mau nanya-nanya ke gue
 
-![Abdul Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isntaz1s&show_icons=true&hide=issues&custom_title=isntaz1s's+stats&theme=dark)
+- [showmeapi](https://github.com/isntaz1s/showmeapi)
+A REST API application which contains of some api endpoints
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isntaz1s&layout=compact&custom_title=Most+Languages+Used&theme=dark)  
-<p align="right">🐈‍⬛</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=isntaz1s&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="manh21 streak" src="https://github-readme-streak-stats.herokuapp.com?user=isntaz1s&theme=dark&hide_border=true" />
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=isntaz1s&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+  
+  </td>
+</tr>
+</table>
