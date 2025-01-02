@@ -10,10 +10,10 @@ Here's a list of tech stack that i used:
 
 Check out my recent project:  
 
-- [jirothebot](https://github.com/isntaz1s/jirothebot)
+- [jirothebot](https://github.com/azisuverse/jirothebot)
 My personal Telegram Bot
 
-- [askgg](https://github.com/isntaz1s/askgg)
+- [askgg](https://github.com/azisuverse/askgg)
 A platform for those of you who want to ask me questions
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
