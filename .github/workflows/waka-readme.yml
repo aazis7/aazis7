@@ -10,7 +10,7 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
         # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
