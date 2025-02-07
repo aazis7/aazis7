@@ -17,15 +17,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           BLOCKS: -> # optional
-          CODE_LANG: txt # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 4 # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: azisuverse # optional
-          AUTHOR_EMAIL: azisuverse@EMAIL.com # optional
-          # you can populate email-id with secrets instead
