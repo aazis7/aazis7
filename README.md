@@ -1,12 +1,12 @@
-Hi there 👋  
+Hi there    
 
-I am Abdul Azis a student who is passionate in software engineering. I love building things such as Web Apps, APIs, and other stuff.  
+I am a student who is passionate in software engineering. I love building stuff like Web Apps, APIs, and others.
 
-Get in touch w/me
+Get in touch w/ me:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abdulazis07)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/aazis7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aazis.7)
+[LinkedIn](https://linkedin.com/in/abdulazis07)
+[X/Twitter](https://x.com/aazis7)
+[Instagram](https://instagram.com/aazis7)
 
 <!--START_SECTION:waka-->
 
