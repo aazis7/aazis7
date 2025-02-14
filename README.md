@@ -6,7 +6,7 @@ Get in touch w/ me:
 
 [LinkedIn](https://linkedin.com/in/abdulazis07)
 [X/Twitter](https://x.com/aazis7)
-[Instagram](https://instagram.com/aazis7)
+[Instagram](https://instagram.com/aazis.7)
 
 <!--START_SECTION:waka-->
 
