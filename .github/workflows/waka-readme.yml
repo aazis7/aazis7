@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TIMEZOME: "True"
+          SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
